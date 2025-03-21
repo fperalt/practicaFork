@@ -10,6 +10,9 @@ disco3 Luis Gonzalez
 discocarol1
 discocarol2
 discocarol3
+discoJose1
+discojose2
+discojose3
 discoenrique1
 discoenrique2
 discoenrique3
