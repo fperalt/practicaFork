@@ -1,6 +1,13 @@
+Disco 1
+Disco 2
+Disco 3
+disco 1
+disco 2
+disco 3
 1 disco
 2 disco
 3 disco
+
 Thriller
 The Dark Side of the Moon
 Formula - Volumen2: Romeo Santos

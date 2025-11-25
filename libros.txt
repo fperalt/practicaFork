@@ -1,6 +1,13 @@
 libro1
 libro2
 libro3
+Harry Potter
+El señor de los anillos
+El hobbit
+libro 1
+libro 2
+libro 3
+
 1 libro
 2 libro
 3 libro

@@ -1,6 +1,12 @@
 pelicula1
 pelicula2
 pelicula3
+Star Wars   
+Marvel  
+Los juegos del hambre
+pelicula 1
+pelicula 2
+pelicula 3
 1 pelicula
 2 pelicula
 3 pelicula
