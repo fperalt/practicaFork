@@ -1,3 +1,6 @@
+pelicula1
+pelicula2
+pelicula3
 Star Wars   
 Marvel  
 Los juegos del hambre
